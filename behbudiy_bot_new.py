@@ -61,7 +61,7 @@ BEHBUDIY_INFO = {
     "hayot": """
 📜 *Mahmudxo'ja Behbudiy (1875–1919)*
 
-Mahmudxo'ja Behbudiy — O'rta Osiyo jadidchilik harakatining asoschisi, buyuk ma'rifatparvar, dramaturg, publitsist va huquqiy islohot tarafdori.
+Mahmudxo'ja Behbudiy — Turkiston jadidchilik harakatining asoschisi, buyuk ma'rifatparvar, dramaturg, publitsist va huquqiy islohot tarafdori.
 
 ━━━━━━━━━━━━━━━━━━
 *Tug'ilishi va yoshligi*
@@ -88,7 +88,7 @@ Bu sayohatlar Behbudiyning jadidchilik g'oyalarini shakllantirishda hal qiluvchi
 • 1913 — "Padarkush" dramasini yozdi — O'rta Osiyodagi birinchi milliy drama!
 • 1913 — "Ehtiyoji millat", "Ikki emas, to'rt til lozim" kabi mashhur maqolalarini yozdi
 • 1914 — "Oyina" (Ko'zgu) jurnalini asos soldi; muharrir va bosh yozuvchi sifatida ishladi
-• 1915 — "Oyina" 36-son chiqargandan so'ng Rossiya ma'murlari tomonidan yopildi
+• 1915 — "Oyina" 68-son chiqargandan so'ng Rossiya ma'murlari tomonidan yopildi
 • 1917 — Turkiston Muxtoriyatini qo'llab-quvvatladi
 • 1918 — "Haq olinur, berilmas!" maqolasini yozdi
 
@@ -111,7 +111,7 @@ Behbudiy O'zbekiston Respublikasida milliy qahramon sifatida e'tirof etilgan. Sa
 📚 *Behbudiyning asosiy asarlari:*
 
 🎭 *Dramaturgiya:*
-• "Padarkush" (1913) — O'rta Osiyodagi birinchi milliy drama
+• "Padarkush" (1911) — Turkistondagi birinchi milliy drama
 
 📰 *Jurnalistika va publitsistika:*
 • "Oyina" jurnali (1914–1915)
@@ -152,7 +152,7 @@ Bosib chiqarilgan:1913
 📌 Ahamiyati: O'rta Osiyodagi *birinchi milliy drama*
 
 📖 *Syujet:*
-Asarda Toshmurod ismli yigit o'qish o'rniga dangasalik, ichkilik va qimorbozlik bilan shug'ullanadi. Oxir-oqibat otasini o'ldiradi — "padarkush" bo'ladi.
+Asarda Toshmurod ismli yigit o'qish o'rniga dangasalik, ichkilik va qimorbozlik bilan shug'ullanadi. Oxir-oqibat otasining o'limiga sabab bo'ladi — "padarkush" bo'ladi.
 
 💬 *Muallif maqsadi:*
 Asarning epigrafida: *"Ko'zing ko'radigan ko'r, qulog'ing eshitadigan kar bo'lma!"*
@@ -161,7 +161,7 @@ Asarning epigrafida: *"Ko'zing ko'radigan ko'r, qulog'ing eshitadigan kar bo'lma
 Jaholatning fojiali oqibatlarini ko'rsatish orqali ta'lim va ma'rifatga chorlash.
 
 🏛 *Tarixiy ahamiyati:*
-Bu drama O'rta Osiyo teatr san'atining boshlanish nuqtasi hisoblanadi.
+Bu drama Turkiston teatr san'atining boshlanish nuqtasi hisoblanadi.
 """,
 }
 
@@ -212,7 +212,7 @@ HUQUQ_MAQOLALAR = [
         ),
         "manba": "«Ehtiyoji millat» — «Samarqand» gazetasi, 1913 yil 12 iyul",
         "izoh": "⚠️ Millat o'z huquqshunosi bo'lmasa, o'z manfaatini hech qayerda himoya eta olmaydi. "
-                "Bu laconic jumla bugun ham dolzarb.",
+                "Bu jumla bugun ham dolzarb.",
     },
     {
         "sarlavha": "Parlament vakili — huquqshunos bo'lmog'i shart",
@@ -228,7 +228,7 @@ HUQUQ_MAQOLALAR = [
         "sarlavha": "Zamonu qonundan xabardor bo'lish",
         "matn": (
             "Anda borib nafyi uchun o'n sana o'qumoq kerak, "
-            "zamонdan, qonundan xabardor bo'lmoq kerakdur."
+            "zamоndan, qonundan xabardor bo'lmoq kerakdur."
         ),
         "manba": "«Ikki emas, to'rt til lozim» — «Oyina» jurnali, 1913 yil, 1-son",
         "izoh": "📖 Huquqiy bilim — doimiy ta'lim va izlanish natijasidir. "
@@ -243,7 +243,7 @@ HUQUQ_MAQOLALAR = [
         ),
         "manba": "«Haq olinur, berilmas!» — «Hurriyat» gazetasi, 1918 yil, 26 yanvar",
         "izoh": "✊ Huquqlarni talab qilish — fuqarolik burchi. "
-                "Behbudiyning bu fikri zamonaviy huquq falsafasining asosiy postulatlaridan biridir.",
+                "Behbudiyning bu fikri zamonaviy huquq falsafasining asosiy poydevorlaridan biridir.",
     },
     {
         "sarlavha": "Har xalqqa o'z qonuni — huquqiy plyuralizm",
@@ -255,7 +255,7 @@ HUQUQ_MAQOLALAR = [
         ),
         "manba": "«Haq olinur, berilmas!» — «Hurriyat» gazetasi, 1918 yil, 26 yanvar",
         "izoh": "🌐 Bu — zamonaviy qiyosiy huquqshunoslik va milliy huquq konsepsiyasining "
-                "Behbudiy tomonidan ilk bora bayon etilishi. Pluralizm va huquqiy tenglik g'oyasi.",
+                "Behbudiy tomonidan ilk bora bayon etilishi. Plyuralizm va huquqiy tenglik g'oyasi.",
     },
     {
         "sarlavha": "Millat majlisi va qonun chiqarish tamoyili",
